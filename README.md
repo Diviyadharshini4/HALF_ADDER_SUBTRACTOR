@@ -75,7 +75,8 @@ RegisterNumber:24008491
 Truth Table
 Half Adder
 Sum = A’B+AB’ =A ⊕ B Carry = AB
-![image](https://github.com/user-attachments/assets/d9908a47-1546-42a6-96f0-02a8872570c1)
+![image](https://github.com/user-attachments/assets/fe5a6cae-2c13-4aec-9ca8-8a34db4d5a31)
+
 
 
 Half Subracter
