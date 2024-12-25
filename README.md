@@ -51,7 +51,8 @@ Figure -02 HALF Subtractor
 **Program:**
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-```HALF ADDER
+```
+HALF ADDER
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 module ha(a,b,sum,carry);
 input a,b;
@@ -67,7 +68,8 @@ input a,b;
 output difference,borrow;
 assign difference= (a ^ b);
 assign borrow= ( ~a & b);
-endmodule```
+endmodule
+```
 
 Developed by: A.DIVIYADHARSHINI
 RegisterNumber:24008491
@@ -75,22 +77,25 @@ RegisterNumber:24008491
 Truth Table
 Half Adder
 Sum = A’B+AB’ =A ⊕ B Carry = AB
-![image](https://github.com/user-attachments/assets/fe5a6cae-2c13-4aec-9ca8-8a34db4d5a31)
+![image](https://github.com/user-attachments/assets/18d8686c-5a3f-474e-a5cd-2f511e4e98b6)
+
 
 
 
 Half Subracter
 Diff = A’B+AB’ =A ⊕ BBorrow = A’B
-![image](https://github.com/user-attachments/assets/a4cfb7be-a80b-4dee-810a-f68687be31fd)
+![image](https://github.com/user-attachments/assets/c224c588-52a3-416f-9055-761a5bc142d8)
 
 
 **RTL**
 Half Adder
 Sum = A’B+AB’ =A ⊕ B Carry = AB
-![Screenshot (6)](https://github.com/user-attachments/assets/b61ef194-0e8b-4006-89ef-81d6f674f54e)
+![Screenshot (6)](https://github.com/user-attachments/assets/ace29559-b7d7-4956-ac5a-134e1651b7fc)
+
 Half Subractor
 Diff = A’B+AB’ =A ⊕ BBorrow = A’B
-![Screenshot (9)](https://github.com/user-attachments/assets/12122b8e-7eb2-4526-bacc-31df28c7703f)
+![Screenshot (9)](https://github.com/user-attachments/assets/54fc97dc-8a1a-4a8e-8b39-4b7f73a137d0)
+
 
 
 
@@ -98,10 +103,12 @@ Diff = A’B+AB’ =A ⊕ BBorrow = A’B
 **Output**
 Half Adder
 Sum = A’B+AB’ =A ⊕ B Carry = AB
-![Screenshot (8)](https://github.com/user-attachments/assets/4828595c-a0c0-4b82-ab25-e240a8cd20aa)
+![Screenshot (8)](https://github.com/user-attachments/assets/882a7f45-8283-4fee-b6fe-eda896069422)
+
 Half Subractor
 Diff = A’B+AB’ =A ⊕ BBorrow = A’B
-![Screenshot (10)](https://github.com/user-attachments/assets/78a3c890-374d-4186-8b38-20345e6e2645)
+![Screenshot (10)](https://github.com/user-attachments/assets/9c5feeec-7dc7-414c-9c92-06ad957f0998)
+
 
 
 
