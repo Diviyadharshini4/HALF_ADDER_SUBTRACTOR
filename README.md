@@ -113,4 +113,4 @@ Diff = A’B+AB’ =A ⊕ BBorrow = A’B
 
 
 **Result:**
-The Half adder and half subractor circuit was verified.
+The Half adder and half subractor circuit was verified. 
